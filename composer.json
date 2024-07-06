@@ -1,0 +1,17 @@
+{
+    "name": "shikkhangon/csv-to-json",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SR-Sohan",
+            "email": "sr.sohanur22@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^7.1"
+    }
+}
